@@ -1,0 +1,71 @@
+
+# InitEnv
+
+# Build.java
+ro.build.id=RP1A.200720.011
+ro.product.manufacturer=OPPO
+ro.product.brand=OPPO
+ro.product.model=CPH2001
+ro.product.name=CPH2001
+ro.product.device=OP4B9B
+ro.product.first_api_level=28
+ro.build.version.incremental=1675947631259
+ro.build.version.base_os=OPPO/CPH2001/OP4B9B:11/RP1A.200720.011/1628935357240:user/release-keys
+ro.build.version.release=11
+ro.build.fingerprint=OPPO/CPH2001/OP4B9B:11/RP1A.200720.011/1675947631259:user/release-keys
+ro.odm.build.fingerprint=OPPO/CPH2001/OP4B9B:11/RP1A.200720.011/1675947631259:user/release-keys
+ro.odm.build.version.incremental=1675947631259
+ro.product.odm.brand=OPPO
+ro.product.odm.manufacturer=OPPO
+ro.product.odm.model=CPH2001
+ro.product.odm.device=OP4B9B
+ro.product.odm.name=CPH2001
+ro.odm.build.date=Thu Feb  9 21:36:52 CST 2023
+ro.odm.build.date.utc=1675949812
+ro.system.build.fingerprint=OPPO/CPH2001/OP4B9B:11/RP1A.200720.011/1675947631259:user/release-keys
+ro.system.build.version.incremental=1675947631259
+ro.product.system.brand=OPPO
+ro.product.system.manufacturer=OPPO
+ro.product.system.model=CPH2001
+ro.product.system.device=OP4B9B
+ro.product.system.name=CPH2001
+ro.system.build.date=Thu Feb  9 21:36:52 CST 2023
+ro.system.build.date.utc=1675949812
+ro.bootimage.build.fingerprint=OPPO/CPH2001/OP4B9B:11/RP1A.200720.011/1675947631259:user/release-keys
+ro.bootimage.build.version.incremental=1675947631259
+ro.product.bootimage.brand=OPPO
+ro.product.bootimage.manufacturer=OPPO
+ro.product.bootimage.model=CPH2001
+ro.product.bootimage.device=OP4B9B
+ro.product.bootimage.name=CPH2001
+ro.bootimage.build.date=Thu Feb  9 21:36:52 CST 2023
+ro.bootimage.build.date.utc=1675949813
+ro.vendor.build.fingerprint=OPPO/CPH2001/OP4B9B:11/RP1A.200720.011/1675947631259:user/release-keys
+ro.vendor.build.version.incremental=1675947631259
+ro.product.vendor.brand=OPPO
+ro.product.vendor.manufacturer=OPPO
+ro.product.vendor.model=CPH2001
+ro.product.vendor.device=OP4B9B
+ro.product.vendor.name=CPH2001
+ro.vendor.build.date=Thu Feb  9 21:36:53 CST 2023
+ro.vendor.build.date.utc=1675949813
+ro.system_ext.build.fingerprint=OPPO/CPH2001/OP4B9B:11/RP1A.200720.011/1675947631259:user/release-keys
+ro.system_ext.build.version.incremental=1675947631259
+ro.product.system_ext.brand=OPPO
+ro.product.system_ext.manufacturer=OPPO
+ro.product.system_ext.model=CPH2001
+ro.product.system_ext.device=OP4B9B
+ro.product.system_ext.name=CPH2001
+ro.system_ext.build.date=Thu Feb  9 21:36:53 CST 2023
+ro.system_ext.build.date.utc=1675949813
+ro.product.build.fingerprint=OPPO/CPH2001/OP4B9B:11/RP1A.200720.011/1675947631259:user/release-keys
+ro.product.build.version.incremental=1675947631259
+ro.product.product.brand=OPPO
+ro.product.product.manufacturer=OPPO
+ro.product.product.model=CPH2001
+ro.product.product.device=OP4B9B
+ro.product.product.name=CPH2001
+ro.product.build.date=Thu Feb  9 21:36:53 CST 2023
+ro.product.build.date.utc=1675949813
+
+# OPPO

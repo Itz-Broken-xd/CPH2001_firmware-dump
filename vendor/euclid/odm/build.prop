@@ -1,0 +1,31 @@
+# build prop start
+persist.vendor.engineer.hide.log=6996
+persist.vendor.engineer.hide.warn=6776
+ro.product.bootreg.disable.command=true
+persist.sys.bluetooth.wearcheck_support=true
+ro.separate.soft=19350
+ro.product.authentication=0
+ro.product.hw=19350
+ro.oppo.market.name=OPPO F15
+ro.vendor.product.device.oem=CPH2001
+ro.vendor.product.oem=CPH2001
+ro.build.product=CPH2001
+ro.gpay.preinstall=true
+ro.product.sar=1.7
+ro.sys.reserve.integrate=true
+persist.sys.oppo.fusionlight=true
+ro.oppo.mtk_gps_mpe=1
+# InitEnv
+# GMS
+ro.com.google.clientidbase=android-oppo
+
+# Mediatek
+ro.mediatek.version.release=CPH2001_11_F.10_230209
+ro.vendor.mediatek.version.release=CPH2001_11_F.10_230209
+persist.sys.oplus.nandswap.condition=true
+persist.sys.oplus.nandswap=true
+odm.dirac.path=/odm/etc/dirac
+ro.oplus.image.odm.version=version_stub
+ro.oplus.image.odm.type=19350
+import /odm/etc/${ro.boot.prjname}/build.prop
+import /mnt/vendor/my_manifest/build.prop
