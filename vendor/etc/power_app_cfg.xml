@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- The source code provided herein is for optimizing power and performance of gaming software
+and certain applications (e.g. Sina Weibo, QQ) only and should not be used and/or included in
+any software that is unrelated to enhancing end-user experience. -->
+<WHITELIST>
+    <Package name="com.king.candycrushsaga">
+        <Activity name="Common">
+            <data cmd="PERF_RES_FPS_FBT_BHR_OPP" param1="1"></data>
+            <data cmd="PERF_RES_FPS_FBT_RESCUE_F" param1="15"></data>
+            <data cmd="PERF_RES_FPS_FBT_RESCUE_C" param1="5"></data>
+        </Activity>
+    </Package>
+    <Package name="com.dts.freefireth">
+        <Activity name="Common">
+            <data cmd="PERF_RES_FPS_FBT_BHR_OPP" param1="0"></data>
+            <data cmd="PERF_RES_FPS_FPSGO_LLF_TH" param1="40"></data>
+            <data cmd="PERF_RES_FPS_FBT_RESCUE_C" param1="4"></data>
+            <data cmd="PERF_RES_FPS_FBT_RESCUE_F" param1="20"></data>
+            <data cmd="PERF_RES_FPS_FBT_RESCUE_PERCENT" param1="25"></data>
+            <data cmd="PERF_RES_GPU_GED_TIMER_BASE_DVFS_MARGIN" param1="20"></data>
+            <data cmd="PERF_RES_GPU_GED_LOADING_BASE_DVFS_STEP" param1="3"></data>
+        </Activity>
+    </Package>
+    <Package name="com.estrongs.android.pop.pro">
+        <Activity name="Common">
+            <data cmd="PERF_RES_SCHED_PLUS_DOWN_THROTTLE_NS" param1="1000000"></data>
+            <data cmd="PERF_RES_SCHED_PLUS_UP_THROTTLE_NS" param1="0"></data>
+            <data cmd="PERF_RES_IO_BLKDEV_READAHEAD" param1="512"></data>
+            <data cmd="PERF_RES_SCHED_UCLAMP_MIN_TA" param1="100"></data>
+            <data cmd="PERF_RES_FPS_FSTB_SOFT_FPS_LOWER" param1="60"></data>
+            <data cmd="PERF_RES_FPS_FSTB_SOFT_FPS_UPPER" param1="60"></data>
+            <data cmd="PERF_RES_FPS_FBT_BHR_OPP" param1="15"></data>
+            <data cmd="PERF_RES_SCHED_BOOST" param1="1"></data>
+        </Activity>
+    </Package>
+    <Package name="com.tencent.tmgp.sgame">
+        <Activity name="Common">
+            <data cmd="PERF_RES_SET_FPSGO" param1="1"></data>
+            <data cmd="PERF_RES_POWERHAL_WHITELIST_APP_LAUNCH_TIME_COLD" param1="25000"></data>
+            <data cmd="PERF_RES_FPS_FBT_FLOOR_BOUND" param1="1"></data>
+            <data cmd="PERF_RES_FPS_FBT_KMIN" param1="10"></data>
+            <data cmd="PERF_RES_THERMAL_POLICY" param1="8"></data>
+            <data cmd="PERF_RES_DRAM_CM_MGR" param1="1"></data>
+            <data cmd="PERF_RES_GPU_GED_MARGIN_MODE" param1="110"></data>
+            <data cmd="PERF_RES_FPS_FPSGO_MARGIN_MODE" param1="1"></data>
+            <data cmd="PERF_RES_FPS_EARA_THERMAL_ENABLE" param1="1"></data>
+        </Activity>
+    </Package>
+    <Package name="com.tencent.tmgp.sgamece">
+        <Activity name="Common">
+            <data cmd="PERF_RES_POWERHAL_WHITELIST_APP_LAUNCH_TIME_COLD" param1="25000"></data>
+            <data cmd="PERF_RES_FPS_FBT_FLOOR_BOUND" param1="1"></data>
+            <data cmd="PERF_RES_FPS_FBT_KMIN" param1="10"></data>
+            <data cmd="PERF_RES_THERMAL_POLICY" param1="8"></data>
+            <data cmd="PERF_RES_DRAM_CM_MGR" param1="1"></data>
+            <data cmd="PERF_RES_GPU_GED_MARGIN_MODE" param1="110"></data>
+            <data cmd="PERF_RES_FPS_FPSGO_MARGIN_MODE" param1="1"></data>
+            <data cmd="PERF_RES_FPS_EARA_THERMAL_ENABLE" param1="1"></data>
+        </Activity>
+    </Package>
+    <Package name="my.beautyCamera">
+        <Activity name="Common">
+            <data cmd="PERF_RES_THERMAL_POLICY" param1="8"></data>
+        </Activity>
+    </Package>
+    <Package name="com.tencent.ig">
+        <Activity name="Common">
+            <data cmd="PERF_RES_THERMAL_POLICY" param1="8"></data>
+            <data cmd="PERF_RES_FPS_FBT_BHR_OPP" param1="0"></data>
+        </Activity>
+    </Package>
+    <Package name="com.tencent.mobileqq">
+        <Activity name="Common">
+            <data cmd="PERF_RES_THERMAL_POLICY" param1="8"></data>
+        </Activity>
+    </Package>
+    <Package name="air.tv.douyu.android">
+        <Activity name="Common">
+            <data cmd="PERF_RES_THERMAL_POLICY" param1="8"></data>
+        </Activity>
+    </Package>
+    <Package name="com.meitu.makeup">
+        <Activity name="Common">
+            <data cmd="PERF_RES_THERMAL_POLICY" param1="8"></data>
+        </Activity>
+    </Package>
+    <Package name="com.netease.ko">
+        <Activity name="Common">
+            <data cmd="PERF_RES_THERMAL_POLICY" param1="8"></data>
+        </Activity>
+    </Package>
+    <Package name="com.netease.hyxd">
+        <Activity name="Common">
+            <data cmd="PERF_RES_THERMAL_POLICY" param1="8"></data>
+            <data cmd="PERF_RES_GPU_GED_MARGIN_MODE" param1="110"></data>
+            <data cmd="PERF_RES_FPS_FPSGO_MARGIN_MODE" param1="1"></data>
+            <data cmd="PERF_RES_FPS_FBT_RESCUE_F" param1="100"></data>
+            <data cmd="PERF_RES_FPS_FBT_RESCUE_PERCENT" param1="50"></data>
+            <data cmd="PERF_RES_FPS_FBT_ULTRA_RESCUE" param1="1"></data>
+            <data cmd="PERF_RES_FPS_FBT_SHORT_RESCUE_NS" param1="16666666"></data>
+            <data cmd="PERF_RES_FPS_FBT_MIN_RESCUE_PERCENT" param1="50"></data>
+            <data cmd="PERF_RES_FPS_FBT_BOOST_TA" param1="1"></data>
+        </Activity>
+    </Package>
+    <Package name="com.netease.mrzh">
+        <Activity name="Common">
+            <data cmd="PERF_RES_THERMAL_POLICY" param1="8"></data>
+            <data cmd="PERF_RES_GPU_GED_MARGIN_MODE" param1="110"></data>
+            <data cmd="PERF_RES_FPS_FPSGO_MARGIN_MODE" param1="1"></data>
+        </Activity>
+    </Package>
+    <Package name="com.maimiao.live.tv">
+        <Activity name="Common">
+            <data cmd="PERF_RES_THERMAL_POLICY" param1="8"></data>
+        </Activity>
+    </Package>
+    <Package name="com.tencent.tmgp.cf">
+        <Activity name="Common">
+            <data cmd="PERF_RES_THERMAL_POLICY" param1="8"></data>
+            <data cmd="PERF_RES_GPU_GED_MARGIN_MODE" param1="110"></data>
+            <data cmd="PERF_RES_FPS_FPSGO_MARGIN_MODE" param1="1"></data>
+        </Activity>
+    </Package>
+    <Package name="com.tencent.tmgp.pubgmhd">
+        <Activity name="Common">
+            <data cmd="PERF_RES_THERMAL_POLICY" param1="8"></data>
+            <data cmd="PERF_RES_GPU_GED_MARGIN_MODE" param1="110"></data>
+            <data cmd="PERF_RES_FPS_FPSGO_MARGIN_MODE" param1="1"></data>
+        </Activity>
+    </Package>
+    <Package name="com.tencent.tmgp.pubgm">
+        <Activity name="Common">
+            <data cmd="PERF_RES_THERMAL_POLICY" param1="8"></data>
+            <data cmd="PERF_RES_GPU_GED_MARGIN_MODE" param1="110"></data>
+            <data cmd="PERF_RES_FPS_FPSGO_MARGIN_MODE" param1="1"></data>
+        </Activity>
+    </Package>
+    <Package name="com.miHoYo.bh3twmycard">
+        <Activity name="Common">
+            <data cmd="PERF_RES_THERMAL_POLICY" param1="8"></data>
+        </Activity>
+    </Package>
+    <!--#ifdef OPLUS_FEATURE_MODEM_TAG -->
+    <!--Chunlin.Yin@PSW.NW.2772459 2020/06/17 -->
+    <!--Add APP which need boot to whitelist -->
+    <Package name="com.netease.hyxd.nearme.gamecenter">
+        <Activity name="Common">
+            <data cmd="PERF_RES_NET_NETD_BOOST_UID" param1="1"></data>
+        </Activity>
+    </Package>
+    <Package name="com.happyelements.AndroidAnimal">
+        <Activity name="Common">
+            <data cmd="PERF_RES_NET_NETD_BOOST_UID" param1="1"></data>
+        </Activity>
+    </Package>
+    <Package name="com.xunmeng.pinduoduo">
+        <Activity name="Common">
+            <data cmd="PERF_RES_NET_NETD_BOOST_UID" param1="1"></data>
+        </Activity>
+    </Package>
+    <Package name="com.zhihu.android">
+        <Activity name="Common">
+            <data cmd="PERF_RES_NET_NETD_BOOST_UID" param1="1"></data>
+        </Activity>
+    </Package>
+     <Package name="com.heytap.browser">
+        <Activity name="Common">
+            <data cmd="PERF_RES_NET_NETD_BOOST_UID" param1="1"></data>
+        </Activity>
+    </Package>
+     <Package name="com.baidu.searchbox">
+        <Activity name="Common">
+            <data cmd="PERF_RES_NET_NETD_BOOST_UID" param1="1"></data>
+        </Activity>
+    </Package>
+     <Package name="com.tencent.mtt">
+        <Activity name="Common">
+            <data cmd="PERF_RES_NET_NETD_BOOST_UID" param1="1"></data>
+        </Activity>
+    </Package>
+    <Package name="com.UCMobile">
+        <Activity name="Common">
+            <data cmd="PERF_RES_NET_NETD_BOOST_UID" param1="1"></data>
+        </Activity>
+    </Package>
+    <Package name="com.tencent.reading">
+        <Activity name="Common">
+            <data cmd="PERF_RES_NET_NETD_BOOST_UID" param1="1"></data>
+        </Activity>
+    </Package>
+    <Package name="com.sankuai.meituan">
+        <Activity name="Common">
+            <data cmd="PERF_RES_NET_NETD_BOOST_UID" param1="1"></data>
+        </Activity>
+    </Package>
+    <Package name="com.sankuai.meituan.takeoutnew">
+        <Activity name="Common">
+            <data cmd="PERF_RES_NET_NETD_BOOST_UID" param1="1"></data>
+        </Activity>
+    </Package>
+    <Package name="com.dianping.v1">
+        <Activity name="Common">
+            <data cmd="PERF_RES_NET_NETD_BOOST_UID" param1="1"></data>
+        </Activity>
+    </Package>
+    <Package name="com.Qunar">
+        <Activity name="Common">
+            <data cmd="PERF_RES_NET_NETD_BOOST_UID" param1="1"></data>
+        </Activity>
+    </Package>
+    <Package name="ctrip.android.view">
+        <Activity name="Common">
+            <data cmd="PERF_RES_NET_NETD_BOOST_UID" param1="1"></data>
+        </Activity>
+    </Package>
+    <Package name="com.ss.android.ugc.aweme">
+        <Activity name="Common">
+            <data cmd="PERF_RES_NET_NETD_BOOST_UID" param1="1"></data>
+        </Activity>
+    </Package>
+    <Package name="com.smile.gifmaker">
+        <Activity name="Common">
+            <data cmd="PERF_RES_NET_NETD_BOOST_UID" param1="1"></data>
+        </Activity>
+    </Package>
+    <Package name="com.qiyi.video">
+        <Activity name="Common">
+            <data cmd="PERF_RES_NET_NETD_BOOST_UID" param1="1"></data>
+        </Activity>
+    </Package>
+    <Package name="com.tencent.qqlive">
+        <Activity name="Common">
+            <data cmd="PERF_RES_NET_NETD_BOOST_UID" param1="1"></data>
+        </Activity>
+    </Package>
+    <Package name="com.youku.phone">
+        <Activity name="Common">
+            <data cmd="PERF_RES_NET_NETD_BOOST_UID" param1="1"></data>
+        </Activity>
+    </Package>
+    <Package name="tv.danmaku.bili">
+        <Activity name="Common">
+            <data cmd="PERF_RES_NET_NETD_BOOST_UID" param1="1"></data>
+        </Activity>
+    </Package>
+    <Package name="com.ulfdittmer.android.ping">
+        <Activity name="Common">
+            <data cmd="PERF_RES_NET_NETD_BOOST_UID" param1="1"></data>
+        </Activity>
+    </Package>
+    <Package name="com.oppo.camera">
+        <Activity name="Common">
+            <data cmd="PERF_RES_SCHED_PREFER_IDLE_TA" param1="1"></data>
+            <data cmd="PERF_RES_SCHED_PREFER_IDLE_FG" param1="1"></data>
+        </Activity>
+    </Package>
+    <!--#endif OPLUS_FEATURE_MODEM_TAG -->
+    <Package name="com.netease.sky.nearme.gamecenter">
+        <Activity name="Common">
+            <data cmd="PERF_RES_THERMAL_POLICY" param1="8"></data>
+        </Activity>
+    </Package>
+</WHITELIST>
