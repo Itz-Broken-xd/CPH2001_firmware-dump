@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<extend_features>
+    <!--questionnaire_enabled ,default:false-->
+    <app_feature name="com.oplus.ota.questionnaire_enabled" args="boolean:true"/>
+</extend_features>

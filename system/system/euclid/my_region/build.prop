@@ -1,0 +1,20 @@
+# build porp start
+ro.oplus.image.my_region.version=19350.21.0.2023020920442814815747
+ro.oplus.image.my_region.type=IN_OPPO
+ro.oplus.image.my_region.date=2023-02-09 20:47:49
+ro.oplus.image.my_region.date.utc=1675946869
+ro.oplus.image.my_region.version_name=X00IN00
+ro.oplus.pipeline.region=IN
+ro.preinstall.path=/data/etc/appchannel
+ro.appsflyer.preinstall.path=/data/etc/appchannel/pre_install.appsflyer
+ro.oplus.region.old=1.0.41_IN
+ro.oem.key1=IN
+ro.trackingId.com.lzd.appid=/data/etc/appchannel/lazadaChannel.txt
+ro.trackingId.com.daraz.appid=/data/etc/appchannel/darazChannel.txt
+ro.trackingId.com.shop.appid=/data/etc/appchannel/shopChannel.txt
+persist.sys.timezone=America/New_York
+persist.sys.oppo.region=IN
+persist.sys.oplus.region=IN
+ro.vendor.oplus.regionmark=IN
+ro.vendor.oppo.version=pu
+ro.vendor.oplus.version=pu

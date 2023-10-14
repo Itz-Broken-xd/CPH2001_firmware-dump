@@ -1,0 +1,2 @@
+com.android.email.partnerprovider:EmailPartnerProvider.apk::false
+com.android.providers.partnerbookmarks:ChromePartnerProvider.apk::false

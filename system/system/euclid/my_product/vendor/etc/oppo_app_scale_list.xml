@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+/*
+** Copyright (c) 2016-2050 OPPO Mobile Comm Corp., Ltd, All rights reserved.
+** OPPO Technologies Proprietary and Confidential.
+** The xml is for config game resolution.
+** For example scale 1.5 change 1080*1920 to 720*1280 (1080/720=1.5)
+** Author:xiaori.yuan@oppo.com
+*/
+-->
+<filter-conf>
+    <version>2020120717</version>
+    <temperaturelimitbtn>2047,2047,2024,1467,1167,957,837,727,605,494,371,253</temperaturelimitbtn>
+</filter-conf>

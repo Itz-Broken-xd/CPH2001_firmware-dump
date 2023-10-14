@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<extend_features>
+    <app_feature name="athena.ams.max.cached.processes" args="String:8|32-6|32-4|12-3|12"/>
+    <app_feature name="athena.kill.memoryguard.custom.clean.threshold" args="String:3-1000,1100|4-1300,1400"/>
+    <app_feature name="memory_level_threshold" args="String:2#400-500-79|500-600-59|600-800-39,3#400-500-79|600-700-59|800-900-39|1000-1200-19,4#450-650-79|600-750-59|1300-1400-39|1500-1700-19,6#600-900-79|900-1400-59|1400-1800-39|1800-2200-19,8#600-1200-79|1200-1800-59|1800-2400-39|2400-2700-19,12#1000-1400-79|1400-1800-59|2200-2600-39|2800-3200-19"/>
+    <app_feature name="athena.fastclear.from.launcher"/>
+</extend_features>

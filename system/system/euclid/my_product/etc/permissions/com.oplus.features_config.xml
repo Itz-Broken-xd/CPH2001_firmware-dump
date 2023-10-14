@@ -1,0 +1,6 @@
+<oplus-config>
+  <!-- ifdef OPLUS_FEATURE_BIOMETRICS -->
+  <!-- Haoran.Xu@ANDROID.BIOMTRICS, 2020/09/11, Add for biometrics feature -->
+  <oplus-feature name="oplus.software.face_closeeye_detect"/>
+  <!-- endif OPLUS_FEATURE_BIOMETRICS -->
+</oplus-config>

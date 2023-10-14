@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PhoneColors>
+        <!--PhoneColor.name：手机颜色的唯一标识，由项目、手软提供-->
+        <!--ColorDescription：手机颜色描述，描述手机颜色-->
+        <!--ColorDescriptionCN：手机颜色描述（中文），描述手机颜色-->
+        <!--DefaultTheme_lock :对应的锁屏壁纸-->
+        <!--DefaultTheme_system :对应的桌面壁纸-->
+        <!--ThemeDescriptionCN：主题描述（中文），描述主题名称-->
+        <!--手机颜色唯一标识、手机颜色描述由项目或手软提供，对应主题由桌面主题组根据UI要求配置-->
+        <!--该文件由OS产品中心桌面主题组维护-->
+
+    <PhoneColor name="FF7B7D7F">
+        <ColorDescription>Lightening Black</ColorDescription>
+        <ColorDescriptionCN>暗夜星辰</ColorDescriptionCN>
+        <DefaultTheme_lock>oppo_default_wallpaper_lightening_black</DefaultTheme_lock>
+        <DefaultTheme_system>oppo_default_wallpaper_lightening_black</DefaultTheme_system>
+        <ThemeDescriptionCN>静谧</ThemeDescriptionCN>
+    </PhoneColor>
+
+    <PhoneColor name="FF8957BC">
+        <ColorDescription>Unicorn White</ColorDescription>
+        <ColorDescriptionCN>融雪之光</ColorDescriptionCN>
+        <DefaultTheme_lock>oppo_default_wallpaper_unicorn_white</DefaultTheme_lock>
+        <DefaultTheme_system>oppo_default_wallpaper_unicorn_white</DefaultTheme_system>
+        <ThemeDescriptionCN>前沿</ThemeDescriptionCN>
+    </PhoneColor>
+
+    <PhoneColor name="FFBEFFF7">
+        <ColorDescription>Blazing Blue</ColorDescription>
+        <ColorDescriptionCN>幽蓝之境</ColorDescriptionCN>
+        <DefaultTheme_lock>oppo_default_wallpaper_blazing_blue</DefaultTheme_lock>
+        <DefaultTheme_system>oppo_default_wallpaper_blazing_blue</DefaultTheme_system>
+        <ThemeDescriptionCN>深邃</ThemeDescriptionCN>
+    </PhoneColor>
+</PhoneColors>
